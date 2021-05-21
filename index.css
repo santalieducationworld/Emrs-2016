@@ -46,7 +46,8 @@ header{
 	background:#0D9DBB;
 }
 .sidebar{
-	background:#2F323A;
+	background:url(eurico-craveiro-wQU7L7VYIrM-unsplash.jpg) no-repeat;
+	background-size: cover;
 	margin-top: 70px;
 	padding-top: 30px;
 	position: fixed;
